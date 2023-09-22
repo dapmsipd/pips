@@ -4,3 +4,9 @@
 
 # Public Investment Program System (PIPS)
 
+This repository is dedicated for managing the PIPS as a project. It aims to provide public access to the following:
+
+1. [Issues Tracker](https://github.com/mlab817/pips/issues)
+2. [Roadmap](https://github.com/mlab817/pips/projects)
+3. [Discussions](https://github.com/mlab817/pips/discussions)
+4. [Wiki](https://github.com/mlab817/pips/wiki)
